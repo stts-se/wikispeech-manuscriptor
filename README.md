@@ -1,5 +1,9 @@
 # manuscriptor2000
-Tools for selecting a smaller set of sentences from a larger text corpus
+
+Tools for selecting a smaller set of sentences from a larger text corpus, for creating manuscripts for TTS and ASR.
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/stts-se/wikispeech-manuscriptor)](https://goreportcard.com/report/github.com/stts-se/wikispeech-manuscriptor) [![Build Status](https://travis-ci.org/stts-se/wikispeech-manuscriptor.svg?branch=master)](https://travis-ci.org/stts-se/wikispeech-manuscriptor)
+
 
 ## Contents
 
