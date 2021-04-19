@@ -1,0 +1,23 @@
+{
+  "db_name": "AA_AX_20210418",
+  "chunks": 4647497,
+  "sources": 225123,
+  "chunk_feats": 1785777,
+  "word_forms": 1725034,
+  "max_wordfreq": 2243012,
+  "batches": {
+   "easyread_batch_1": 87179,
+   "general_tts_batch_1": 767382,
+   "hardtoread_batch_1": 261270,
+   "se_place_weather_batch_1": 121471,
+   "se_sports_names_batch_1": 325228
+  },
+  "scripts": {
+   "easyread_script_1": 10000,
+   "general_tts_script_1": 40000,
+   "hardtoread_script_1": 5000,
+   "most_common_sents_script_1": 1000,
+   "se_place_weather_script_1": 400,
+   "se_sports_names_script_1": 400
+  }
+ }

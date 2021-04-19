@@ -420,6 +420,7 @@ func stats(cmd string, args []string) {
 	if err != nil {
 		log.Fatalf("Failed to get stats: %v", err)
 	}
+	stats.DBName = dbName
 	bts, err := json.MarshalIndent(stats, " ", " ")
 	if err != nil {
 		log.Fatalf("Failed to marshal stats: %v", err)

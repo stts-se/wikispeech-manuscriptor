@@ -198,6 +198,7 @@ func MaxRowID(tableName string) (int64, error) {
 }
 
 type Stats struct {
+	DBName      string         `json:"db_name,omitempty"`
 	Chunks      int64          `json:"chunks"`
 	Sources     int64          `json:"sources"`
 	ChunkFeats  int64          `json:"chunk_feats"`
