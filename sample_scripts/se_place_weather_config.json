@@ -1,0 +1,94 @@
+{
+  "description": "place names and weather words, exhaustive mode, clearing all batches and scripts before running",
+  "clear_batches": true,
+  "clear_scripts": true,
+  "filter": {
+   "batch_name": "se_place_weather_batch_1",
+   "target_size": -1,
+   "opts": [
+    {
+     "name": "chunkfeat_cats",
+     "args": [
+	 "se_place",
+	 "se_weather"
+     ]
+    },
+    {
+     "name": "word_count",
+     "args": [
+      "4",
+      "25"
+     ]
+    },
+    {
+     "name": "comma_count",
+     "args": [
+      "0",
+      "5"
+     ]
+    },
+    {
+     "name": "digit_count",
+     "args": [
+      "0"
+     ]
+    },
+    {
+     "name": "lowest_word_freq",
+     "args": [
+      "2"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[.](\\|\")? "
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[\\p{Greek}]"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[^a-zA-ZåäöÅÄÖéÉüÜ0-9 ,$€£@.!/()\"':—–-]"
+     ]
+    }
+   ]
+  },
+  "selector": {
+   "mode": "exhaustive",
+   "feature_opts": [
+    {
+     "name": "bigram_transition"
+    },
+    {
+     "name": "bigram_top800",
+     "target_amount": 3
+    },
+    {
+     "name": "final_trigram"
+    },
+    {
+     "name": "initial_bigram"
+    },
+    {
+     "name": "word"
+    },
+    {
+     "name": "bigram"
+    }
+   ],
+   "adjust_score_for_sentence_length": false,
+   "target_size": 400,
+   "from_batch": "se_place_weather_batch_1",
+   "script_name": "se_place_weather_script_1",
+   "accumulated_scripts": [],
+   "print_metadata": true,
+   "chunk_size": 1,
+   "chunk_decrease": 0
+  }
+ }

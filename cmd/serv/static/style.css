@@ -1,0 +1,44 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 1em;
+    grid-auto-rows:minmax(100px, auto);
+    justify-items:stretch;
+    align-items:stretch;
+}
+
+
+.wrapper > div{
+    background:#eee;
+    padding: 1em;
+    border:#333 solid 1px;
+}
+
+.wrapper > div:nth-child(odd){
+    background-color: #ddd;
+    
+}
+
+.btn {
+    cursor: pointer;
+}
+
+
+.component{
+    grid-column:1/13;
+}
+
+
+#header{
+    grid-column:1/13;
+}
+
+
+#footer{
+    grid-column:1/13;
+}
+
+th, td {
+    text-align: left;
+    vertical-align: top;
+}

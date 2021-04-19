@@ -1,0 +1,37 @@
+{
+  "description": "basic selection, random mode, using an existing batch and script",
+  "clear_batches": false,
+  "clear_scripts": false,
+  "selector": {
+   "mode": "rand",
+   "feature_opts": [
+    {
+     "name": "bigram_transition"
+    },
+    {
+     "name": "bigram_top800",
+     "target_amount": 3
+    },
+    {
+     "name": "final_trigram"
+    },
+    {
+     "name": "initial_bigram"
+    },
+    {
+     "name": "word"
+    },
+    {
+     "name": "bigram"
+    }
+   ],
+   "adjust_score_for_sentence_length": false,
+   "target_size": 400,
+   "from_batch": "test_batch_1",
+   "script_name": "test_script_1b",
+   "accumulated_scripts": ["test_script_1"],
+   "print_metadata": true,
+   "min_iterations": 100,
+   "cutoff": 5000
+  }
+ }

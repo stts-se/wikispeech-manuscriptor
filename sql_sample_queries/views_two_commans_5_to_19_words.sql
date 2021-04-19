@@ -1,0 +1,1 @@
+SELECT chunk_wordcount_view.id, chunk_wordcount_view.text FROM chunk_wordcount_view JOIN chunk_numcommas_view ON chunk_wordcount_view.id = chunk_numcommas_view.id WHERE  chunk_wordcount_view.freq > 5 AND chunk_wordcount_view.freq < 20 AND chunk_numcommas_view.freq = 2 LIMIT 25;

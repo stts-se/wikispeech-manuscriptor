@@ -1,0 +1,4 @@
+SELECT chunk_wordcount_view.text from chunk_wordcount_view JOIN chunk_commacount_view on chunk_wordcount_view.id = chunk_commacount_view.id JOIN chunk_digitcount_view on chunk_digitcount_view.id = chunk_wordcount_view.id WHERE chunk_wordcount_view.freq = 14 AND chunk_commacount_view.freq = 2 AND chunk_digitcount_view.freq = 0;
+
+--- PLUS Min. number for lowest frequency word:
+--- SELECT chunk_wordcount_view.text, chunk_lowestwordfreqcount_view.freq from chunk_wordcount_view JOIN chunk_commacount_view on chunk_wordcount_view.id = chunk_commacount_view.id JOIN chunk_digitcount_view on chunk_digitcount_view.id = chunk_wordcount_view.id JOIN chunk_lowestwordfreqcount_view ON chunk_lowestwordfreqcount_view.id = chunk_wordcount_view.id WHERE chunk_wordcount_view.freq = 14 AND chunk_commacount_view.freq = 2 AND chunk_digitcount_view.freq = 0 AND chunk_lowestwordfreqcount_view.freq > 2;

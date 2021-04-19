@@ -1,0 +1,42 @@
+{
+  "description": "filtering only, no selection",
+  "clear_batches": true,
+  "filter": {
+   "batch_name": "test_batch_1",
+   "target_size": 40000,
+   "opts": [
+    {
+     "name": "word_count",
+     "args": [
+      "4",
+      "25"
+     ]
+    },
+    {
+     "name": "comma_count",
+     "args": [
+      "0",
+      "25"
+     ]
+    },
+    {
+     "name": "lowest_word_freq",
+     "args": [
+      "2"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[\\p{Greek}]"
+     ]
+    },
+    {
+     "name": "chunkfeat_cats",
+     "args": [
+      "se_fem_name"
+     ]
+    }
+   ]
+  }
+ }

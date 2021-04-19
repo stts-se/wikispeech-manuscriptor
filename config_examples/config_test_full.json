@@ -1,0 +1,116 @@
+{
+  "description": "selection showing most available options, exhaustive mode, clearing all batches and scripts before running",
+  "clear_batches": true,
+  "clear_scripts": true,
+  "filter": {
+   "batch_name": "test_batch_1",
+   "target_size": 40000,
+   "opts": [
+    {
+     "name": "word_count",
+     "args": [
+      "4",
+      "25"
+     ]
+    },
+    {
+     "name": "comma_count",
+     "args": [
+      "0",
+      "2"
+     ]
+    },
+    {
+     "name": "source_re",
+     "args": [
+      "00$"
+     ]
+    },
+    {
+     "name": "paragraph_count",
+     "args": [
+      "10",
+      "20"
+     ]
+    },
+    {
+     "name": "sentence_count",
+     "args": [
+       "9",
+       "-1"
+     ]
+    },
+    {
+     "name": "digit_count",
+     "args": [
+      "0"
+     ]
+    },
+    {
+     "name": "chunkfeat_cats",
+     "args": [
+      "se_place"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[\\p{Greek}]"
+     ]
+    },
+    {
+     "name": "lowest_word_freq",
+     "args": [
+      "3"
+     ]
+    },
+    {
+     "name": "exclude_batches",
+     "args": [
+      "test_batch_2"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[^a-zA-ZåäöÅÄÖéÉüÜ0-9 ,$€£@.!?/()\"':—–-]"
+     ]
+    }
+   ]
+  },
+  "selector": {
+   "mode": "exhaustive",
+   "feature_opts": [
+    {
+     "name": "bigram_transition"
+    },
+    {
+     "name": "bigram_top800",
+     "target_amount": 3
+    },
+    {
+     "name": "final_trigram"
+    },
+    {
+     "name": "initial_bigram"
+    },
+    {
+     "name": "word"
+    },
+    {
+     "name": "bigram"
+    },
+    {
+     "name": "trigram"
+    }
+   ],
+   "adjust_score_for_sentence_length": false,
+   "target_size": 400,
+   "from_batch": "test_batch_1",
+   "script_name": "test_script_1",
+   "accumulated_scripts": [],
+   "print_metadata": true,
+   "chunk_size": 1,
+   "chunk_decrease": 0
+  }
+ }

@@ -1,0 +1,1 @@
+select chunk.text from  chunk, chunkfeat, chunk_chunkfeat where chunk.id = chunk_chunkfeat.chunk_id and chunk_chunkfeat.chunkfeat_id = chunkfeat.id and chunkfeat.name = 'count' and chunkfeat.value = 'word_count' and chunk_chunkfeat.freq > 5; -- and chun_chunkfeat.freq < 25;

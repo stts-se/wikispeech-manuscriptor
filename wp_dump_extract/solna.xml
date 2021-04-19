@@ -1,0 +1,519 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="sv">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>svwiki</dbname>
+    <base>https://sv.wikipedia.org/wiki/Portal:Huvudsida</base>
+    <generator>MediaWiki 1.36.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Användare</namespace>
+      <namespace key="3" case="first-letter">Användardiskussion</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipediadiskussion</namespace>
+      <namespace key="6" case="first-letter">Fil</namespace>
+      <namespace key="7" case="first-letter">Fildiskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki-diskussion</namespace>
+      <namespace key="10" case="first-letter">Mall</namespace>
+      <namespace key="11" case="first-letter">Malldiskussion</namespace>
+      <namespace key="12" case="first-letter">Hjälp</namespace>
+      <namespace key="13" case="first-letter">Hjälpdiskussion</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Kategoridiskussion</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portaldiskussion</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Moduldiskussion</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Ämne</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Solna kommun</title>
+    <ns>0</ns>
+    <id>2629</id>
+    <revision>
+      <id>47641217</id>
+      <parentid>47484453</parentid>
+      <timestamp>2020-05-13T08:01:44Z</timestamp>
+      <contributor>
+        <username>LarskeBot</username>
+        <id>310602</id>
+      </contributor>
+      <minor />
+      <comment>återlägger borttappad kategori</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32023" xml:space="preserve">:''För andra betydelser av &quot;Solna&quot;, se [[Solna (olika betydelser)]].''
+{{faktamall svensk kommun WD|namn=Solna kommun&lt;br&gt;&lt;small&gt;Solna stad&lt;/small&gt;}}
+
+'''Solna kommun''' eller '''Solna stad''' är en [[Sveriges kommuner|kommun]] i [[Stockholms län]], belägen strax norr om [[Stockholms innerstad]]. [[Centralort]] är [[Solna (bebyggelse)|Solna]]. Solna ingår i sin helhet i [[Tätort|tätorten]] [[Stockholm]].&lt;ref&gt;{{webbref |url=http://www.scb.se/statistik/mi/mi0810/2010a01/mi0810_2010a01_sm_mi38sm1101.pdf |titel=Tätorter 2010 |hämtdatum=10 mars 2014 |format=PDF |utgivare=[[Statistiska centralbyrån]] |arkivurl=https://www.webcitation.org/5zUN9vx7d?url=http://www.scb.se/Statistik/MI/MI0810/2010A01/MI0810_2010A01_SM_MI38SM1101.pdf |arkivdatum=16 juni 2011 }}&lt;/ref&gt;
+
+Solna är Sveriges tredje minsta kommun till ytan, med en landareal på endast {{#expr:({{Stat/Sverige/Kommuner/Areal totalt|0184}} round 0)}} km². Befolkningsmässigt är Solna landets {{ordningstal|{{Stat/Sverige/Kommuner/Befolkning rank|0184}}}} största kommun.
+
+Solna kommun ligger i de södra delarna av [[Landskap i Sverige|landskapet]] [[Uppland]]. I sydöst, söder, sydväst och nordväst gränsar kommunen till [[Stockholms kommun]], i väster till [[Sundbybergs kommun]], i nordväst också till [[Sollentuna kommun]] och i nordöst till [[Danderyds kommun]], alla i Stockholms län.
+
+Solna är en av de numera 14 kommuner i Sverige som kallar sig ''stad''. Detta formuleras sålunda i kommunens grafiska profil från den 9 december 1991: ''Kommunens namn är i fortsättningen Solna stad utom i sådana juridiskt bindande sammanhang då lagen föreskriver att beteckningen &quot;kommun&quot; ska användas.''&lt;ref&gt;{{webbref |url= http://www.solna.se/templates/Page_solna_submenu____13623.aspx |titel=Solna stad eller kommun?  |arkivurl=https://web.archive.org/web/20070515085611/http://www.solna.se/templates/Page_solna_submenu____13623.aspx |arkivdatum=15 maj 2007|utgivare=solna Stad}}&lt;/ref&gt;
+
+== Administrativ historik ==
+Kommunens område motsvarar huvuddelen av [[Solna socken]] och en mindre del av [[Spånga socken]]. Vid [[kommunreformen 1862]] bildades i dessa socknar [[Solna landskommun|Solna]] och [[Spånga landskommun]]er. 
+
+I Solna landskommun inrättades [[municipalsamhälle]]na: [[Hagalunds municipalsamhälle|(Nya) Hagalund]] 29 september 1899, [[Nya Huvudsta municipalsamhälle|Nya Huvudsta]] 10 oktober 1903, [[Lilla Alby municipalsamhälle|Lilla Alby]] 19 juli 1907 och [[Råsunda municipalsamhälle|Råsunda]] 10 november 1911. Dess upplöstes 1943 när Solna landskommun ombildades till [[Solna stad]]. 1949 när Spånga landskommun upplöstes tillfördes mindre områden ([[Råstahem]]) därifrån samtidigt som området [[Lilla Alby]] överfördes från Solna stad till [[Sundbybergs stad]]
+
+[[Kommunreformen 1952]] påverkade inte indelningarna i området. 
+
+I mitten av sextiotalet bildades [[Solna-Sundbybergs kommunblock]] men någon sammanläggning genomfördes inte. Solna kommun bildades vid [[kommunreformen 1971]] genom en ombildning av Solna stad.&lt;ref&gt;{{Bokref/Sveriges kommunindelning 1863-1993}}&lt;/ref&gt; 
+
+Kommunen ingår sedan bildandet i [[Solna tingsrätts domsaga]].
+
+== Namnet ==
+Namnet Solna är tidigast belagt 1305 som ''Solnö''. Förledet är ''Soln'', 'sol' vilket ger tolkningen 'den solbelysta ön'.&lt;ref&gt;{{Bokref/Svenskt ortnamnslexikon/2003}}&lt;/ref&gt; Efterledet har sitt ursprung i den tid då en del av dagens Solna var en stor ö som sträckte sig från nuvarande [[Bällstaviken]] och [[Råstasjön]] i väster till [[Stora Värtan]] i öster.&lt;ref&gt;{{Webbref|titel = Solna stad|url = https://www.solna.se/sv/stadsbyggnad-trafik/gator-och-torg/-gatunamn/solnas-gatunamn/|verk = www.solna.se|hämtdatum = 2016-02-09|förnamn = Solna|efternamn = stad|arkivurl = https://web.archive.org/web/20160402215232/https://www.solna.se/sv/stadsbyggnad-trafik/gator-och-torg/-gatunamn/solnas-gatunamn/|arkivdatum = 2016-04-02}}&lt;/ref&gt;
+
+== Kommunvapnet ==
+[[Fil:Solna town sign.jpg|miniatyr|höger|Skylt vid infarten till Solna stad ([[Huvudstabron]]).]]
+[[Blasonering]]: ''I blått fält en sol av guld.''
+
+[[Solna kommunvapen]] innehåller en sol, en [[talande vapen|talande]] bild för Solna. Det fastställdes 1940 för Solna stad och registrerades 1974 för Solna kommun.
+
+Första gången som solsymbolen förknippades med Solna var när [[Solna kyrka]] fick ett nytt torn med tornprydnad 1723. Denna förgyllda tornprydnad, som hade formen av en sol, har nu ersatts, men den finns fortfarande kvar i kyrkan. Den sitter i det runda fönstret över den västra ingången.
+
+Den kommunala solen dök upp på himlen redan 1924 i form av ett sigill som hade ritats av riksheraldikern. Det kom sedan att förändras något över åren för att den 26 januari 1940 få en noggrant fastställd form av riksheraldikern gillad av kung [[Gustav V]].
+
+==Demografi==
+===Befolkningsutveckling===
+{{Stapeldiagram
+|titel=Befolkningsutvecklingen i Solna kommun 1970–2015
+|titelfärg=#DDD
+|bredd=650px
+|diagrambredd=550px
+|vänster1=År
+|höger1=Invånare
+|staplar=
+{{Pixelstapel|1970|#0099FF|361||55 556}}
+{{Pixelstapel|1975|#0099FF|350||53 878}}
+{{Pixelstapel|1980|#0099FF|328||50 441}}
+{{Pixelstapel|1985|#0099FF|323||49 648}}
+{{Pixelstapel|1990|#0099FF|337||51 841}}
+{{Pixelstapel|1995|#0099FF|354||54 417}}
+{{Pixelstapel|2000|#0099FF|368||56 605}}
+{{Pixelstapel|2005|#0099FF|394||60 575}}
+{{Pixelstapel|2010|#0099FF|443||68 144}}
+{{Pixelstapel|2015|#0099FF|495||76 158}}
+|beskrivning=Källa: [http://www.ssd.scb.se/databaser/makro/SubTable.asp?yp=tansss&amp;xu=C9233001&amp;omradekod=BE&amp;huvudtabell=BefolkningNy&amp;omradetext=Befolkning&amp;tabelltext=Folkm%E4ngden+efter+region%2C+civilst%E5nd%2C+%E5lder+och+k%F6n%2E+%C5r&amp;preskat=O&amp;prodid=BE0101&amp;starttid=1970&amp;stopptid=2010&amp;Fromwhere=M&amp;lang=1&amp;langdb=1 SCB - Folkmängd efter region och tid].}}
+
+===Utländsk bakgrund===
+Den 31 december 2018 utgjorde antalet invånare med [[utländsk bakgrund]] (utrikes födda personer samt inrikes födda med två utrikes födda föräldrar) 31&amp;nbsp;980, eller 39,51&amp;nbsp;% av befolkningen (hela befolkningen: 80&amp;nbsp;950 den 31 december 2018). Den 31 december 2002 utgjorde antalet invånare med utländsk bakgrund enligt samma definition 14&amp;nbsp;986, eller 26,02&amp;nbsp;% av befolkningen (hela befolkningen: 57&amp;nbsp;585 den 31 december 2002).&lt;ref&gt;[http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0101__BE0101Q/UtlSvBakgGrov/table/tableViewLayout1/ Antal personer med utländsk eller svensk bakgrund (grov indelning) efter region, ålder och kön. År 2002 - 2018] (Läst 10 juli 2019)&lt;/ref&gt; Den 31 december 2014 utgjorde folkmängden i Solna kommun 74&amp;nbsp;041 personer. Av dessa var 20&amp;nbsp;044 personer (27,1&amp;nbsp;%) födda i ett annat land än Sverige. I denna tabell har de nordiska länderna samt de 12 länder med flest antal utrikes födda (i hela riket) tagits med. En person som inte kommer från något av de här 17 länderna har istället av Statistiska centralbyrån förts till den [[världsdel]] som deras födelseland tillhör.&lt;ref name=&quot;Scbfödelseland&quot;&gt;[http://www.scb.se/Statistik/BE/BE0101/2014A01J/BE0101-Utrikes-fodda-kom-fland.xlsx Statistiska centralbyrån: Utrikes födda efter län, kommun och födelseland 31 december 2014] {{Wayback|url=http://www.scb.se/Statistik/BE/BE0101/2014A01J/BE0101-Utrikes-fodda-kom-fland.xlsx |date=20150512021004 }} (XLS-fil) Läst 24 januari 2016&lt;/ref&gt;
+{| class=&quot;wikitable collapsible collapsed&quot; 
+! colspan=3|  Födelseland&lt;ref name=&quot;Scbfödelseland&quot;/&gt;
+|-
+| colspan=3| &lt;center&gt; ''31 december 2014''
+|-
+| 1 || {{Flaggbild2|Sverige}} || align=right | {{nts|53997}}
+|-
+| 2 || {{Flaggbild2|Europeiska unionen}}: Övriga länder || align=right | {{nts|3202}}
+|-
+| 3 || [[Asien]]: Övriga länder || align=right | {{nts|2486}}
+|-
+| 4 || {{Flaggbild2|Iran}} || align=right | {{nts|2266}}
+|-
+| 5 || {{Flaggbild2|Finland}} || align=right | {{nts|1650}}
+|-
+| 6 || {{Flaggbild2|Kina}} || align=right | {{nts|1566}}
+|-
+| 7 || [[Afrika]]: Övriga länder || align=right | {{nts|1561}}
+|-
+| 8 || [[Sydamerika]] || align=right | {{nts|1035}}
+|-
+| 9 || {{Flaggbild2|Polen}} || align=right | {{nts|945}}
+|-
+| 10 || [[Europa]] utom EU: Övriga länder || align=right | {{nts|857}}
+|-
+| 11 || {{Flaggbild2|Turkiet}} || align=right | {{nts|668}}
+|-
+| 12 || {{Flaggbild2|Irak}} || align=right | {{nts|571}}
+|-
+| 13 || [[Nordamerika]] || align=right | {{nts|529}}
+|-
+| 14 || {{Flaggbild2|Tyskland}} || align=right | {{nts|519}}
+|-
+| 15 || {{Flaggbild|Jugoslavien}}/{{Flaggbild|Jugoslavien|förbundsrepubliken}}&lt;br&gt;[[SFR Jugoslavien]]/[[Förbundsrepubliken Jugoslavien|FR Jugoslavien]]|| align=right | {{nts|433}}
+|-
+| 16 || {{Flaggbild2|Thailand}} || align=right | {{nts|406}}
+|-
+| 17 || {{Flaggbild2|Bosnien och Hercegovina}} || align=right | {{nts|289}}
+|-
+| 18 || {{Flaggbild2|Syrien}} || align=right | {{nts|245}}
+|-
+| 19 || {{Flaggbild2|Norge}} || align=right | {{nts|240}}
+|-
+| 20 || {{Flaggbild2|Sovjetunionen}} || align=right | {{nts|151}}
+|-
+| 21 || {{Flaggbild2|Danmark}} || align=right | {{nts|144}}
+|-
+| 22 || {{Flaggbild2|Island}} || align=right | {{nts|107}}
+|-
+| 23 || {{Flaggbild2|Afghanistan}} || align=right | {{nts|72}}
+|-
+| 24 || [[Oceanien]] || align=right | {{nts|71}}
+|-
+| 25 || {{Flaggbild2|Somalia}} || align=right | {{nts|26}}
+|-
+| 26 || Okänt födelseland || align=right | {{nts|5}}
+|}
+
+== Historia ==
+
+===Förhistorisk tid===
+Solnas äldsta historia liknar de omkringliggande kommunerna i länet och börjar med inlandsisens smältande för cirka 10&amp;nbsp;000 år sedan. Solna var då ett kargt ytterskärgårdslandskap med enbart tillfälliga jägare som invånare; spår av dessa har hittats på diverse platser i kommunen.
+
+Från [[bronsåldern]] finns bevarat ett antal metallföremål av [[Hallstattkulturen|hallstattkaraktär]] funna djupt ner i blålera under diverse byggnadsprojekt främst kring [[Råsunda (stadsdel)|Råsunda]]området. Dessa har antagligen tappats ner i de sund och fjärdar som fanns i området eller alternativt offrats i kultiskt syfte. Det är också från denna tid som den äldsta kända bosättningen tillkommer vid nuvarande Norra [[Hagaparken|Haga]] grindar som möjligtvis skulle kunna vara den ursprungliga Solna by då det är den närmaste bekräftade byn till [[Solna kyrka|kyrkan]]. Byn grävdes ut i samband med breddning av nuv. [[E4|E4:an]] under tidigt [[1900-talet|1900-tal]] och visade sig bestå av ett antal lämningar efter [[stockhus]].
+
+Under [[järnåldern]] tillkommer ett flertal bosättningar, de största var [[Järva gård]] och [[Tomteboda|Bolstomta]] (det nuvarande ortnamnet ''Tomteboda'' är en medveten förvrängning av detta namn) med tillhörande mycket stora [[gravfält]]. Av de senare finns enbart gravfältet vid Järva kvar med [[skeppssättning]], relativt stora högar och gravtrianglar av brandgravskaraktär. Gravfältet vid Bolstomta låg vid nuvarande järnvägskorsningen vid Hedvigsdal och visade sig vid utgrävningen innehålla mestadels brandgravar. Vid anläggningen av [[Posten]]s nya huvudkontor [[Arken (kontorsbyggnad)|Arken]] i Tomteboda, grävdes vintern [[2001]], undersöktes även gravfältet vid gamla Polisskolan. Gravarna innehöll skelettgravar från [[folkvandringstiden]], cirka 500-700 e.Kr. Svärd, pärlor, kammar och fragment av en bildsten med urnordiska runor &lt;ref&gt;[http://samla.raa.se/xmlui/bitstream/handle/raa/3130/2006_254.pdf?sequence=1&amp;isAllowed=y Fragmenten från Tomteboda] Fornvännen 101 (2006) ({{pdf}})&lt;/ref&gt; påträffades under den korta utgrävningstiden som försvårades av tidsbrist och besvärligt väder. Fynden tyder på att detta var en begravningsplats för den styrande välmående eliten i det närliggande Bolstomta.
+
+===Medeltiden===
+Med kristendomens utbredning i [[Mälardalen]] byggdes under [[1100-talet]] en [[Solna kyrka|kyrka]] på den plats där näset mellan [[Brunnsviken]] och [[Ulvsundasjön]] var som smalast. Den ursprungliga träkyrkan ersattes under slutet av seklet med en försvarskyrka av [[rundkyrka|rundkyrkomodell]], antagligen i samband med [[Estland|esternas]] härjningar i området under denna tid.&lt;ref&gt;Andra rundkyrkor i området är [[Bromma kyrka, Stockholm|Bromma kyrka]] i Stockholm och [[Munsö kyrka]] i [[Ekerö kommun]]).&lt;/ref&gt; 
+
+Fram till och med [[Stockholm]]s grundläggning på Stockholmen i dåvarande centrala Solna omfattade socknen även [[Kungsholmen]], [[Gärdet]], [[Kaknäs]], [[Djurgården]], södra [[Lidingön]], [[Sickla]]landet, [[Gamla Stan]] och [[Södermalm]]. Detta förklarar till kyrkans placering i den nuvarande kommunens sydöstra hörn. Det var också först i och med [[reformationen]] som domkyrkoprosten i [[Storkyrkan]] slutade att vara överhuvud för både församlingen i Stockholm och församlingen i Solna.
+[[Fil:Råsunda-Stadium-Building-2-Spring-2010.JPG|miniatyr|Vy över Ekensbergsparken i centrala Solna. [[Råsundastadion]] till vänster.]]
+
+===Från slutet av 1800-talet===
+I slutet av [[1800-talet]] växte flera förortssamhällen fram i Solna: [[Hagalund, Solna kommun|Hagalund]], [[Huvudsta]], [[Råsunda (stadsdel)|Råsunda]] och [[Lilla Alby]], vilka kring sekelskiftet inrättades som municipalsamhällen. 1943 bildades [[Solna stad|Solna]] [[stad (Sverige)|stad]], då med cirka 30&amp;nbsp;000 invånare. Fortsatt stark expansion har lett till att dess bebyggelse successivt har vuxit samman med Stockholm.
+
+Solna gränsar till Stockholm vid [[Norrtull]]. Järnvägarna norrut från Stockholm möjliggjorde framväxten av arbetarförstäder. Från Råsunda fanns 1908–1959 spårvägsförbindelse, [[Sundbybergsbanan]], in till stadskärnan. Stora bostads- och arbetsplatsområden byggdes i Solna under perioden 1950–1970.
+
+[[Solna Centrum (köpcentrum)|Solna Centrum]], som nåddes av tunnelbanan 1975, invigdes 1965 och byggdes om till en överglasad flervåningsgalleria 1986–1990. I övrigt består bebyggelsen främst av friliggande flerbostadshus, men det finns även sluten, mer stadsmässig bebyggelse. Inom Solna ligger [[Friends Arena]] samt slotten [[Karlbergs slott|Karlberg]], [[Haga slott|Haga]] och [[Ulriksdals slott|Ulriksdal]].
+
+Från slutet av [[1990-talet]] har en ny stadsdel tagit form, [[Frösunda, Solna|Frösunda]]. Bygget av Frösunda fortgår till omkring 2013 då nästan 2&amp;nbsp;500 lägenheter har färdigställts. Från [[2006]] utvecklas tillsammans med [[Sundbybergs kommun]] ytterligare en stadsdel, [[Järvastaden]].
+
+==Indelningar==
+===För befolkningsrapportering===
+Fram till 2016 var kommunen för befolkningsrapportering indelad i en enda församling, [[Solna församling]].
+[[File:Distrikt Solna.jpg|mini|Distrikt inom Solna kommun]]
+
+Från 2016 indelas kommunen i följande [[Sveriges distrikt|distrikt]]&lt;ref&gt;{{Sveriges distrikt}}&lt;/ref&gt;.
+*[[Råsunda distrikt|Råsunda]]
+*[[Solna distrikt|Solna]]
+
+=== Stadsdelar ===
+Solna är uppdelat i ett antal stadsdelar. Dessa överensstämmer med [[trakt]]erna i Lantmäteriets [[Fastighetsregistret|fastighetsregister]].&lt;ref name=&quot;SolnaStadsdel&quot;&gt;{{Webbref |url=https://www.solna.se/sv/stadsbyggnad-trafik/gator-och-torg/-gatunamn/stadsdelar-och-omraden |titel=Stadsdelar och områden |hämtdatum=2016-09-04 |författare= |efternamn= |förnamn= |författarlänk= |efternamn2= |förnamn2= |datum= |år= |månad= |format= |verk= |utgivare=Solna Stad |sid= |språk= |doi= |arkivurl=https://web.archive.org/web/20160922225737/https://www.solna.se/sv/stadsbyggnad-trafik/gator-och-torg/-gatunamn/stadsdelar-och-omraden/ |arkivdatum=2016-09-22 |citat= |ref= }}/&lt;/ref&gt; 
+{{kolumner}}
+* [[Bergshamra, Solna|Bergshamra]]
+* [[Haga, Solna|Haga]]
+* [[Hagalund, Solna kommun|Hagalund]]
+* [[Huvudsta]]
+* [[Järva, Solna kommun|Järva]]
+* [[Råsunda (stadsdel)|Råsunda]]  	
+* [[Skytteholm, Solna kommun|Skytteholm]]
+* [[Ulriksdal]]
+{{kolumner-slut}}
+Gränserna mellan stadsdelarna är dock ofta inte allmänt kända, utan i stället är det ytterligare områdesnamn som de boende i Solna associerar sig med. En mer omfattande lista över områden är följande (där vissa områden dock ingår i andra)&lt;ref name=&quot;SolnaStadsdel&quot; /&gt; :
+{{kolumner}}
+* [[Agnesberg, Solna|Agnesberg]] (ingår i stadsdelen Järva)
+* [[Arenastaden]] (ingår i stadsdelen Järva)
+* [[Bagartorp]] (ingår i stadsdelen Järva)
+* [[Ballongberget]] (ingår i stadsdelen Järva) 
+* [[Filmstaden, Råsunda|Filmstaden]] (ingår i stadsdelen Råsunda)
+* [[Frösunda, Solna|Frösunda]] (ingår i stadsdelen Järva)
+* [[Ingenting, Solna|Ingenting]] (ingår i stadsdelen Huvudsta)
+* [[Järvastaden]] (ingår i stadsdelen Järva)
+* [[Karlberg, Solna|Karlberg]] (ingår i stadsdelen Huvudsta)
+* [[Kungshamra]] (ingår i stadsdelen Bergshamra)
+* [[Ritorp, Solna|Ritorp]] (ingår i stadsdelen Järva)
+* [[Rudviken, Solna|Rudviken]] (ingår i Hagalund)
+* [[Råstahem]] (ingår i takten Järva)
+* [[Solna Business Park]] (ingår i stadsdelen Skytteholm)
+* [[Solna kyrkby]] (ingår i stadsdelen Haga)
+* [[Solna strand]] (ingår i stadsdelen Huvudsta)
+* [[Stocksundstorp]] (ingår i stadsdelen Bergshamra)
+* [[Vasalund]] (ingår i stadsdelen Råsunda)
+* [[Västra skogen]] (ingår i stadsdelen Huvudsta)
+{{kolumner-slut}}
+
+==Kommunikationer==
+I nord-sydlig riktning genomkorsas kommunen av [[E4]] och i öst-västlig av [[E18]].
+
+=== Kollektivtrafik ===
+Solna har ett centralt läge i Stockholms län, med sitt läge nära [[Stockholms innerstad]]. Redan 1904 nådde [[Spårvagnstrafik i Stockholm|spårvagnarna]] Haga. [[Stockholms Nya Spårvägs AB|Spårvägsbolagets]] [[dotterbolag]] [[Råsunda Förstadsaktiebolag]] uppförde bebyggelse längs linjen för att få bättre trafikunderlag till spårvagnarna. Linjen förlängdes successivt genom hela Solna och till Sundbyberg. Spårvagnstrafiken lades ned 1959, för att återkomma 54 år senare då [[Tvärbanan]] förlängdes från [[Alvik, Stockholm|Alvik]] till Solna centrum hösten 2013. Spårvägen har stopp vid [[Solna Business Park]], Solna centrum och Solna station.
+
+1975 kom [[Stockholms tunnelbana|tunnelbanan]] till Solna. Det finns sex tunnelbanestationer inom kommunen. [[Blå linjen (Stockholms tunnelbana)|Blå linjen]] har stationerna [[Västra skogen (tunnelbanestation)|Västra skogen]], [[Solna centrum (tunnelbanestation)|Solna centrum]], [[Näckrosen (tunnelbanestation)|Näckrosen]] (delas med Sundbyberg), [[Huvudsta (tunnelbanestation)|Huvudsta]] och [[Solna strand (tunnelbanestation)|Solna strand]]. [[Röda linjen (Stockholms tunnelbana)|Röda linjen]] har stationen [[Bergshamra (tunnelbanestation)|Bergshamra]].
+
+Det finns två [[Stockholms pendeltåg|pendeltågsstationer]], [[Solna (pendeltågsstation)|Solna]] och [[Ulriksdal (pendeltågsstation)|Ulriksdal]]. Ett omfattande [[buss]]linjenät förbinder vidare Solna med dess grannkommuner. 
+
+Den 12 mars 2012 startade [[City Shuttle]] en ny busslinje mellan [[Frösundavik]] och [[Bromma flygplats]] &lt;ref&gt;{{webbref |url=http://www.solna.se/sv/om-solna/nyheter-om-solna/ny-busslinje-fran-solna-till-bromma-flygplats/ |titel=Arkiverade kopian |hämtdatum=2012-04-01 |arkivurl=https://web.archive.org/web/20141208141052/https://www.solna.se/sv/om-solna/nyheter-om-solna/ny-busslinje-fran-solna-till-bromma-flygplats/ |arkivdatum=2014-12-08 }}&lt;/ref&gt;&lt;ref&gt;{{Webbref |url=http://www.mynewsdesk.com/se/pressroom/a-bjoerks-ab/pressrelease/view/nya-busslinjer-till-bromma-stockholm-airport-739638 |titel=Arkiverade kopian |hämtdatum=2012-03-23 |arkivurl=https://web.archive.org/web/20120414211555/http://www.mynewsdesk.com/se/pressroom/a-bjoerks-ab/pressrelease/view/nya-busslinjer-till-bromma-stockholm-airport-739638 |arkivdatum=2012-04-14 }}&lt;/ref&gt;
+
+I Solna låg också [[Spårvägens Råsundaanläggning|Råsundahallen]] som var en av spårvägens vagnhallar och [[Stockholms Nya Spårvägsaktiebolag]]s och från 1917 [[Stockholms Spårvägar (1915)|AB Stockholms Spårvägar]]s huvudverkstad åren 1909–1959.
+
+Sedan 1916 finns i kommunen [[Hagalundsdepån]], numera norra Europas största anläggning för underhåll av [[järnvägsfordon]].
+
+== Politik ==
+=== Kommunfullmäktige ===
+{| class=&quot;wikitable&quot;
+! colspan=&quot;3&quot; |Presidium 2018–2022
+|-
+|Ordförande
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|[[Lars-Erik Salminen]]
+|-
+|Förste vice ordförande
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Georgios Kontorinis
+|-
+|Andre vice ordförande
+| bgcolor=&quot;{{partifärg|c}}&quot;  style=&quot;text-align: center; color: white&quot; | C
+|Martin Karlsson
+|}
+
+====Lista över kommunfullmäktiges ordförande====
+{| class=&quot;wikitable&quot;
+|-
+!colspan=&quot;2&quot;| Namn
+! Tillträdde
+! Avgick
+! Politisk tillhörighet
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || Sven Kinnander || 2002 || 2018 || [[Moderaterna]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || [[Lars-Erik Salminen]] || 2018 || || [[Moderaterna]] 
+|}
+
+===Kommunstyrelsen===
+{| class=&quot;wikitable&quot;
+! colspan=&quot;3&quot; |Presidium 2018–2022
+|-
+|Ordförande
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|[[Pehr Granfalk]]
+|-
+|Förste vice ordförande
+| bgcolor=&quot;{{partifärg|l}}&quot;  style=&quot;text-align: center; color: white&quot; | L
+|Marianne Damström Gereben
+|-
+|Andre vice ordförande
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Arne Öberg
+|}
+
+====Lista över kommunstyrelsens ordförande====
+{| class=&quot;wikitable&quot;
+|-
+!colspan=&quot;2&quot;| Namn
+! Tillträdde
+! Avgick
+! Politisk tillhörighet
+|-
+|bgcolor=&quot;{{partifärg|l}}&quot;|&amp;nbsp; ||  C.-G. Eklund || 1971 || 1977 || [[Liberalerna|Folkpartiet]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || Sune Berglund || 1977 || 1983 || [[Moderaterna]]
+|-
+|bgcolor=&quot;{{partifärg|s}}&quot;|&amp;nbsp; || Gösta Fagerberg || 1983 || 1989 || [[Socialdemokraterna (Sverige)|Socialdemokraterna]]
+|-
+|bgcolor=&quot;{{partifärg|s}}&quot;|&amp;nbsp; || K.-G. Svensson || 1989 || 1991 || [[Socialdemokraterna (Sverige)|Socialdemokraterna]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || [[Anders Gustâv]] || 1991 || 1994 || [[Moderaterna]]
+|-
+|bgcolor=&quot;{{partifärg|s}}&quot;|&amp;nbsp; || K.-G. Svensson || 1994 || 1998 || [[Socialdemokraterna (Sverige)|Socialdemokraterna]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || [[Anders Gustâv]] || 1998 || 2006 || [[Moderaterna]]
+|-
+|bgcolor=&quot;{{partifärg|l}}&quot;|&amp;nbsp; || Anders Ekegren (t.f.) ||2006 || 2006 || [[Liberalerna|Folkpartiet]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || [[Lars-Erik Salminen]]&lt;ref&gt; http://www.dn.se/sthlm/mutatalad-politiker-hoppar-av&lt;/ref&gt; || 2006 || 2011 || [[Moderaterna]]
+|-
+|bgcolor=&quot;{{partifärg|l}}&quot;|&amp;nbsp; || Anders Ekegren (t.f.) ||2011 || 2011 || [[Liberalerna|Folkpartiet]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || [[Lars-Erik Salminen]]&lt;ref&gt; http://www.dn.se/sthlm/mutatalad-politiker-hoppar-av&lt;/ref&gt; || 2011 || 2012 || [[Moderaterna]]
+|-
+|bgcolor=&quot;{{partifärg|m}}&quot;|&amp;nbsp; || [[Pehr Granfalk]]&lt;ref&gt; http://www.dn.se/sthlm/granfalk-tar-over-i-solna&lt;/ref&gt; || 2012 || || [[Moderaterna]] 
+|}
+
+===Nämnder&lt;ref&gt;[https://solna.tromanpublik.se/viewOrganizationCategory.jsf?id=5 Förtroenderegister Solna kommun] Hämtad 2020-02-25&lt;/ref&gt;===
+{| class=&quot;wikitable&quot;
+! Nämnd !! colspan=&quot;2&quot; | Ordförande
+! colspan=&quot;2&quot; |Vice ordförande
+!colspan=&quot;2&quot; |Andre vice ordförande
+|-
+|Barn- och förskolenämnden
+| bgcolor=&quot;{{partifärg|c}}&quot;  style=&quot;text-align: center; color: white&quot; | C
+|Anna Lasses
+| bgcolor=&quot;{{partifärg|kd}}&quot;  style=&quot;text-align: center; color: white&quot; | KD
+|David Armér
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Ajla Mehinovic Avdic
+|-
+|Kompetensnämnden
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Lars Rådén
+| bgcolor=&quot;{{partifärg|mp}}&quot;  style=&quot;text-align: center; color: white&quot; | MP
+|Marie Cham
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Fredrik Johansson
+|-
+|Skolnämnden
+| bgcolor=&quot;{{partifärg|l}}&quot;  style=&quot;text-align: center; color: white&quot; | L
+|Marianne Damström Gereben
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|[[Niklas Wykman]]
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Eva Eriksson
+|-
+|Byggnadsnämnden
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Torsten Svenonius
+| bgcolor=&quot;{{partifärg|mp}}&quot;  style=&quot;text-align: center; color: white&quot; | MP
+|Bernhard Huber
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Martin Eliasson
+|-
+|Kultur- och fritidsnämnden
+| bgcolor=&quot;{{partifärg|l}}&quot;  style=&quot;text-align: center; color: white&quot; | L
+|Peter Edholm
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Lars Rådén
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Faradj Koliev
+|-
+|Miljö- och hälsoskyddsnämnden
+| bgcolor=&quot;{{partifärg|mp}}&quot;  style=&quot;text-align: center; color: white&quot; | MP
+|Victoria Johansson
+| bgcolor=&quot;{{partifärg|c}}&quot;  style=&quot;text-align: center; color: white&quot; | C
+|Axel Östlund
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Hélène Sevastik
+|-
+|Socialnämnden
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Arion Chryssafis
+| bgcolor=&quot;{{partifärg|l}}&quot;  style=&quot;text-align: center; color: white&quot; | L
+|Martin Andreasson
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Per-Ove Nelstrand
+|-
+|Tekniska nämnden
+| bgcolor=&quot;{{partifärg|c}}&quot;  style=&quot;text-align: center; color: white&quot; | C
+|Magnus Persson
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Veronika de Jonge
+| bgcolor=&quot;{{partifärg|v}}&quot;  style=&quot;text-align: center; color: white&quot; | V
+|Atilla Yavuz
+|-
+|Omvårdnadsnämnden
+| bgcolor=&quot;{{partifärg|kd}}&quot;  style=&quot;text-align: center; color: white&quot; | KD
+|Samuel Klippfalk
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Zanna Mårtensson
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Elisabet Brolin
+|-
+|Valnämnden
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Gunilla Åberg
+| bgcolor=&quot;{{partifärg|l}}&quot;  style=&quot;text-align: center; color: white&quot; | L
+|Anna Attergren Granath
+| bgcolor=&quot;{{partifärg|kd}}&quot;  style=&quot;text-align: center; color: white&quot; | KD
+|Nataliya Hulusjö
+|-
+|Överförmyndarnämnden
+| bgcolor=&quot;{{partifärg|m}}&quot;  style=&quot;text-align: center; color: white&quot; | M
+|Thomas Wallin
+| bgcolor=&quot;{{partifärg|s}}&quot;  style=&quot;text-align: center; color: white&quot; | S
+|Nazar Nashat
+|}
+
+=== Mandatfördelning i Solna kommun, valen 1970–2018 ===
+{{Mandattabell_start|län=01|v|s|mp|sd|nyd|0184-bep|c|l|kd|m}}
+{{Mandattabell_rad|län=01|valdelt=87,7|kvinnor=13|1970|51|v|3|s|22|mp|0|sd|0|nyd|0|0184-bep|0|c|6|l|11|kd|0|m|9}}
+{{Mandattabell_rad|län=01|valdelt=90,0|kvinnor=16|1973|51|v|4|s|21|mp|0|sd|0|nyd|0|0184-bep|0|c|8|l|7|kd|0|m|11}}
+{{Mandattabell_rad|län=01|valdelt=89,0|kvinnor=18|1976|51|v|4|s|20|mp|0|sd|0|nyd|0|0184-bep|0|c|6|l|9|kd|0|m|12}}
+{{Mandattabell_rad|län=01|valdelt=86,9|kvinnor=24|1979|61|v|5|s|24|mp|0|sd|0|nyd|0|0184-bep|0|c|5|l|9|kd|0|m|18}}
+{{Mandattabell_rad|län=01|valdelt=87,2|kvinnor=24|1982|61|v|5|s|27|mp|1|sd|0|nyd|0|0184-bep|0|c|4|l|4|kd|0|m|20}}
+{{Mandattabell_rad|län=01|valdelt=84,9|kvinnor=27|1985|61|v|5|s|24|mp|2|sd|0|nyd|0|0184-bep|0|c|2|l|9|kd|0|m|19}}
+{{Mandattabell_rad|län=01|valdelt=80,8|kvinnor=27|1988|61|v|5|s|23|mp|4|sd|0|nyd|0|0184-bep|0|c|2|l|10|kd|0|m|17}}
+{{Mandattabell_rad|län=01|valdelt=81,1|kvinnor=25|1991|61|v|4|s|20|mp|3|sd|0|nyd|2|0184-bep|0|c|2|l|8|kd|2|m|20}}
+{{Mandattabell_rad|län=01|valdelt=80,7|kvinnor=27|1994|61|v|4|s|24|mp|3|sd|0|nyd|0|0184-bep|0|c|2|l|6|kd|1|m|21}}
+{{Mandattabell_rad|län=01|valdelt=76,02|kvinnor=23|1998|61|v|7|s|20|mp|3|sd|0|nyd|0|0184-bep|0|c|0|l|4|kd|4|m|23}}
+{{Mandattabell_rad|län=01|valdelt=76,84|kvinnor=26|2002|61|v|5|s|21|mp|3|sd|0|nyd|0|0184-bep|0|c|0|l|8|kd|4|m|20}}
+{{Mandattabell_rad|län=01|valdelt=79,15|kvinnor=26|2006|61|v|4|s|16|mp|4|sd|0|nyd|0|0184-bep|0|c|1|l|6|kd|2|m|28}}
+{{Mandattabell_rad|län=01|valdelt=80,09|kvinnor=25|2010|61|v|4|s|15|mp|6|sd|0|nyd|0|0184-bep|0|c|2|l|6|kd|2|m|26}}
+{{Mandattabell_rad|län=01|valdelt=80,81|kvinnor=27|2014|61|v|5|s|14|mp|8|sd|3|nyd|0|0184-bep|1|c|2|l|6|kd|2|m|20}}
+{{Mandattabell_rad|län=01|valdelt=82,46|kvinnor=25|2018|61|v|6|s|15|mp|5|sd|5|nyd|0|0184-bep|0|c|4|l|5|kd|2|m|19}}
+{{Mandattabell_slut}}
+
+== Näringsliv ==
+{{källor avsnitt|datum=2012-09}}
+[[Fil:SChuvudentre.jpg|miniatyr|300px|[[Solna Centrum (köpcentrum)|Solna Centrum]] är en inglasad [[galleria]]. På bilden syns huvudentrén in till Hotellgatan]]
+
+Av de cirka 8&amp;nbsp;000 företag och arbetsställen som finns i Solna är över 80 procent inom tjänstesektorn. Den förr så stora tillverkningsindustrin har nästan helt avvecklats. Solna är en av de kommuner som har fler arbetsplatser än invånare i arbetsför ålder. Bland de större arbetsplatserna räknas:
+* [[Karolinska Universitetssjukhuset]]
+* [[Karolinska institutet]]
+* [[Scandinavian Airlines|SAS]]
+* [[Siemens AB]]
+* [[Skanska]]
+
+Solna kommun är ett centrum för svensk byggindustri då [[JM]], [[NCC]], [[Peab]] och [[Skanska]] har sina [[huvudkontor]] där.
+
+Även inom läkemedelsindustrin har många företag sina svenska och nordiska huvudkontor i Solna.
+
+[[Detaljhandel]]n har också ett centrum i Solna: [[Axfood]], [[Coop Sverige]], [[ICA]], [[Vi-butikerna|Vi]], [[Hemköp]] och [[Lidl]] har sina huvudkontor i kommunen.
+
+[[2004]], [[2005]], [[2008]], [[2009]], [[2010]], [[2011]], [[2012]] och [[2013]] utsågs Solna till &quot;Företagsvänligaste kommunen&quot; av [[Svenskt Näringsliv]]. 2005 utsågs man till &quot;Årets tillväxtkommun&quot; av bland annat [[Sveriges Kommuner och Landsting]]. [[2004]] utsågs Solna till &quot;Sveriges kompetenskommun&quot;.
+
+Under [[2010]] startade 702 nya företag i Solna, en siffra som placerar staden i landets toppskikt när det gäller nyföretagande.{{förtydliga här|datum=2012-09}}
+
+Även [[GB Glace]] Sverige, [[Discshop.se]] och [[Webhallen Sverige|Webhallen]] har sina huvudkontor i Solna.&lt;ref&gt; http://gb.se/kontakta/&lt;/ref&gt;&lt;ref&gt; http://www.discshop.se/kontakta_oss/&lt;/ref&gt;&lt;ref&gt;http://www.webhallen.com/info/kontakta_oss/kundservice&lt;/ref&gt;
+
+Centralt i Solna finns [[galleria]]n [[Solna Centrum (köpcentrum)|Solna Centrum]] där de större kedjorna finns representerade. Partier av [[Råsundavägen]] utgör en mer traditionell affärsgata med många nischade småbutiker, caféer och restauranger.
+
+==Utbildning==
+=== Högskolor och yrkeshögskolor ===
+* [[Karolinska institutet]]
+* [[Militärhögskolan Karlberg]]
+* [[Polishögskolan]]
+* [[Nackademin|Nackademins Yrkeshögskola]]
+
+=== Gymnasieskolor ===
+* [[Ingridskolan]] (friskola)
+* [[Psykologigymnasiet]] (friskola)
+* [[Solna Gymnasium]]
+* [[Hästgymnasiet]] (friskola - ej startad)
+* [[Peabskolan]] (friskola)
+
+== Vänorter ==
+Solna har ett systerstadsförbund med [[Burbank, Kalifornien|Burbank]] i [[Kalifornien]], [[USA]], fyra [[vänort]]er och två [[samarbetsort]]er.&lt;ref&gt;{{webbref|url=https://www.solna.se/om-solna/internationellt/natverk-vanorter-samarbetspartners/|titel=Samarbetspartners|utgivare=solna.se|datum=14 mars 2012|hämtdatum=21 mars 2019|arkivurl=https://web.archive.org/web/20190321133322/https://www.solna.se//om-solna/internationellt/natverk-vanorter-samarbetspartners/|arkivdatum=21 mars 2019}}&lt;/ref&gt;
+* {{flaggbild|Danmark}} [[Gladsaxe kommun]], [[Danmark]]
+* {{flaggbild|Finland}} [[Birkala]] (fi: ''Pirkkala''), [[Finland]]
+* {{flaggbild|Norge}} [[Nordre Follo kommun]], [[Norge]]
+* {{flaggbild|Lettland}} [[Valmiera]], [[Lettland]]
+* {{flaggbild|Grekland}} [[Kalamaria]], [[Grekland]] (samarbetsort)
+* {{flaggbild|Polen}} [[Bemowo]] (distrikt i [[Warszawa]]), [[Polen]] (samarbetsort)
+
+==Se även==
+*[[Lista över insjöar i Solna kommun]]
+*[[:Kategori:Naturreservat i Solna kommun|Naturreservat i Solna kommun]]
+*[[Lista över fornlämningar i Solna kommun]]
+*[[:Kategori:Personer från Solna kommun|Personer från Solna kommun]]
+
+== Externa länkar ==
+{{Commonscat|Solna}}
+* [http://www.solna.se/ Officiell webbplats]
+
+== Källor ==
+&lt;references/&gt;
+
+{{Solna kommun|state=uncollapsed}}
+{{Stockholms län}}
+
+[[Kategori:Sveriges kommuner]]
+[[Kategori:Solna kommun| ]]</text>
+      <sha1>rluykj5bm5f5y0f0eiaq9j2au0h43b9</sha1>
+    </revision>
+  </page>
+</mediawiki>

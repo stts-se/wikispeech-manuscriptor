@@ -1,0 +1,105 @@
+{
+  "description": "easy read sentences, exhaustive mode, clearing all batches and scripts before running",
+  "clear_batches": true,
+  "clear_scripts": true,
+  "filter": {
+   "batch_name": "easyread_batch_1",
+   "target_size": -1,
+   "opts": [
+    {
+     "name": "word_count",
+     "args": [
+      "4",
+      "15"
+     ]
+    },
+    {
+     "name": "comma_count",
+     "args": [
+      "0",
+      "1"
+     ]
+    },
+    {
+     "name": "lowest_word_freq",
+     "args": [
+      "600"
+     ]
+    },
+    {
+     "name": "digit_count",
+     "args": [
+      "0"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[\\p{Greek}]"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[.](\\|\")? "
+     ]
+    },       
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "\\b[A-Z]+\\b"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "\\b[^ .,!?-]{15,}\\b"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[zZwW]"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[^a-zA-ZåäöÅÄÖéÉüÜ .,]"
+     ]
+    }
+   ]
+  },
+  "selector": {
+   "mode": "exhaustive",
+   "feature_opts": [
+    {
+     "name": "bigram_transition"
+    },
+    {
+     "name": "bigram_top800",
+     "target_amount": 3
+    },
+    {
+     "name": "final_trigram"
+    },
+    {
+     "name": "initial_bigram"
+    },
+    {
+     "name": "word"
+    },
+    {
+     "name": "bigram"
+    }
+   ],
+   "adjust_score_for_sentence_length": false,
+   "target_size": 10000,
+   "from_batch": "easyread_batch_1",
+   "script_name": "easyread_script_1",
+   "accumulated_scripts": [],
+   "print_metadata": true,
+   "chunk_size": 1,
+   "chunk_decrease": 0
+  }
+ }

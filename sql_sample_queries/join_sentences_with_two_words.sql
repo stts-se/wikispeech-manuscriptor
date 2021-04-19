@@ -1,0 +1,2 @@
+--- sentences containing both 'mammä́ and 'pappä́ 
+select chunk.text from chunk inner join chunk_chunkfeat ccf1 on ccf1.chunk_id = chunk.id inner join chunkfeat cf1 on ccf1.chunkfeat_id = cf1.id and cf1.name = 'word' and cf1.value = 'mamma' inner join chunk_chunkfeat ccf2 on ccf2.chunk_id = chunk.id inner join chunkfeat cf2 on ccf2.chunkfeat_id = cf2.id and cf2.name = 'word' and cf2.value = 'pappa';

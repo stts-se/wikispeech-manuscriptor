@@ -1,0 +1,1 @@
+SELECT chunk.id, chunk.text, COALESCE(SUM(NUMDIGIT.freq), 0) NDIGIT from chunk left join (SELECT chunk_chunkfeat.freq, c.id from chunkfeat, chunk_chunkfeat, chunk as c where chunkfeat.name = 'digit' and chunkfeat.id = chunk_chunkfeat.chunkfeat_id and chunk_chunkfeat.chunk_id = c.id) NUMDIGIT on chunk.id = NUMDIGIT.id GROUP BY chunk.id ORDER BY NDIGIT DESC LIMIT 20;

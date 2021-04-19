@@ -1,0 +1,75 @@
+{
+  "description": "hart to read sentences, exhaustive mode, clearing all batches and scripts before running",
+  "clear_batches": true,
+  "clear_scripts": true,
+  "filter": {
+   "batch_name": "hardtoread_batch_1",
+   "target_size": -1,
+   "opts": [
+    {
+     "name": "word_count",
+     "args": [
+      "25",
+      "2000"
+     ]
+    },
+    {
+     "name": "comma_count",
+     "args": [
+      "2",
+      "1000"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[\\p{Greek}]"
+     ]
+    },
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[^a-zA-ZåäöÅÄÖéÉüÜ0-9 ,$€£@.!/()\"':—–-]"
+     ]
+    },    
+    {
+     "name": "exclude_chunk_re",
+     "args": [
+      "[.](\\|\")? "
+     ]
+    }       
+   ]
+  },
+  "selector": {
+   "mode": "exhaustive",
+   "feature_opts": [
+    {
+     "name": "bigram_transition"
+    },
+    {
+     "name": "bigram_top800",
+     "target_amount": 3
+    },
+    {
+     "name": "final_trigram"
+    },
+    {
+     "name": "initial_bigram"
+    },
+    {
+     "name": "word"
+    },
+    {
+     "name": "bigram"
+    }
+   ],
+   "adjust_score_for_sentence_length": false,
+   "target_size": 5000,
+   "from_batch": "hardtoread_batch_1",
+   "script_name": "hardtoread_script_1",
+   "accumulated_scripts": [],
+   "print_metadata": true,
+   "chunk_size": 1,
+   "chunk_decrease": 0
+  }
+ }
