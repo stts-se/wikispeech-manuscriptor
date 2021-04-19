@@ -1,0 +1,46 @@
+@startuml
+
+title
+Wikispeech: Manuscript tool
+end title
+
+component WikiExtractor
+component Cleanup
+component Filter
+component Selection
+component "Feat Computation" as FeatComputation
+
+database WikiDump
+database "Main Database" as MainDatabase
+database "Filtered Batches" as FilteredBatches
+database Scripts
+
+WikiDump --> WikiExtractor
+WikiExtractor --> Cleanup
+note left: remove junk
+
+Cleanup --> MainDatabase
+
+FeatComputation --> MainDatabase
+
+MainDatabase --> Filter
+note left
+create subsets based
+on various properties
+end note
+
+Filter --> FilteredBatches: iterative process
+FilteredBatches --> Filter
+
+
+FilteredBatches --> Selection
+note left
+select subsets of sentences
+from the filtered batches, based
+on a scoring system
+end note
+Selection --> Scripts
+
+
+
+@enduml

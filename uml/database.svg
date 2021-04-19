@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="451px" preserveAspectRatio="none" style="width:449px;height:451px;" version="1.1" viewBox="0 0 449 451" width="449px" zoomAndPan="magnify"><defs><filter height="300%" id="f189ur92xa07d3" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="292" x="82" y="16.708">Wikispeech: Manuscript database</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="62" x="70" y="264.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="38" x="82" y="278.0918">chunk</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="71" x2="131" y1="282.9219" y2="282.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="8" x="76" y="296.2041">id</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="50" x="76" y="307.8447">text string</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="77" x="257.5" y="258.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="63" x="264.5" y="272.0918">chunkfeat</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="258.5" x2="333.5" y1="276.9219" y2="276.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="23" x="263.5" y="290.2041">id int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="58" x="263.5" y="301.8447">name string</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="56" x="263.5" y="313.4854">value string</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="80" x="6" y="385.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="28" y="399.0918">batch</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="85" y1="403.9219" y2="403.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="68" x="12" y="417.2041">chunk_id int fk</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="58" x="12" y="428.8447">name string</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="80" x="121" y="385.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="35" x="143.5" y="399.0918">script</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="122" x2="200" y1="403.9219" y2="403.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="68" x="127" y="417.2041">chunk_id int fk</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="58" x="127" y="428.8447">name string</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="61" y="28.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="43" x="74.5" y="42.0918">source</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="62" x2="130" y1="46.9219" y2="46.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="23" x="67" y="60.2041">id int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="58" x="67" y="71.8447">name string</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="101" x="45.5" y="143.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="87" x="52.5" y="157.0918">source_chunk</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="46.5" x2="145.5" y1="161.9219" y2="161.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="72" x="51.5" y="175.2041">source_id int fk</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="68" x="51.5" y="186.8447">chunk_id int fk</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="49.25" style="stroke: #A80036; stroke-width: 1.5;" width="100" x="338" y="143.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="83" x="346.5" y="157.0918">chunkfeatcat</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="339" x2="437" y1="161.9219" y2="161.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="58" x="344" y="175.2041">name string</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="344" y="186.8447">chunkfeat_id int fk</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="121" x="181.5" y="137.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="107" x="188.5" y="151.0918">chunk_chunkfeat</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="182.5" x2="301.5" y1="155.9219" y2="155.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="68" x="187.5" y="169.2041">chunk_id int fk</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="187.5" y="180.8447">chunkfeat_id int fk</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="35" x="187.5" y="192.4854">freq int</text><rect fill="#FEFECE" filter="url(#f189ur92xa07d3)" height="60.8906" style="stroke: #A80036; stroke-width: 1.5;" width="100" x="246" y="379.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="268.5" y="393.0918">wordfreq</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="247" x2="345" y1="397.9219" y2="397.9219"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="23" x="252" y="411.2041">id int</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="88" x="252" y="422.8447">chunkfeat_id int fk</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="35" x="252" y="434.4854">freq int</text><!--link chunk to batch--><path d="M81.62,332.3931 C73.37,350.2231 64.07,370.3631 57.03,385.5831 " fill="none" id="chunk-batch" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="75.39,329.1831,90.13,313.9631,88.1,335.0531,75.39,329.1831" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="61.3977" y="334.2176">0..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="33.9154" y="374.7455">1..*</text><!--link chunk to script--><path d="M121.86,331.8231 C130.92,349.7931 141.21,370.2031 148.97,385.5831 " fill="none" id="chunk-script" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="115.61,334.9731,112.85,313.9631,128.11,328.6731,115.61,334.9731" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="118.8334" y="334.2176">0..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="120.2346" y="374.7455">1..*</text><!--link source to source_chunk--><path d="M96,98.2931 C96,113.7931 96,130.6131 96,143.7931 " fill="none" id="source-source_chunk" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="89,98.1431,96,78.1431,103,98.1431,89,98.1431" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="70.0531" y="98.4437">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="70.1969" y="133.0067">1..*</text><!--link source_chunk to chunk--><path d="M96.99,192.9631 C97.6,207.6231 98.42,226.9431 99.15,244.3631 " fill="none" id="source_chunk-chunk" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="106.15,244.3031,100,264.5831,92.16,244.8931,106.15,244.3031" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="71.2968" y="213.2176">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="73.9531" y="253.7455">1..*</text><!--link chunkfeatcat to chunkfeat--><path d="M369.82,192.9631 C358.85,207.1631 344.49,225.7331 331.35,242.7231 " fill="none" id="chunkfeatcat-chunkfeat" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="336.81,247.1031,319.04,258.6431,325.74,238.5431,336.81,247.1031" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="339.2145" y="213.2176">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="298.4201" y="247.8336">0..*</text><!--link chunk_chunkfeat to chunk--><path d="M206.78,199.1731 C187.95,215.0631 164.6,234.7731 144.63,251.6331 " fill="none" id="chunk_chunkfeat-chunk" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="148.96,257.1331,129.16,264.6831,139.93,246.4431,148.96,257.1331" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="174.144" y="219.1479">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="110.2209" y="253.8699">0..*</text><!--link chunk_chunkfeat to chunkfeat--><path d="M255.49,199.1731 C261.09,211.5231 267.75,226.1831 274.02,240.0231 " fill="none" id="chunk_chunkfeat-chunkfeat" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="280.61,237.5931,282.5,258.6931,267.86,243.3731,280.61,237.5931" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="232.9004" y="219.1479">1..*</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="23" x="254.3438" y="247.8939">0..*</text><!--link chunkfeat to wordfreq--><path d="M296,340.2831 C296,353.6831 296,367.7631 296,379.6931 " fill="none" id="chunkfeat-wordfreq" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="289,340.1731,296,320.1731,303,340.1731,289,340.1731" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="287.175" y="340.1479">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="8" x="287.175" y="368.8939">1</text><!--
+@startuml
+
+title
+Wikispeech: Manuscript database
+end title
+
+
+
+object chunk
+chunk : id
+chunk : text string
+
+
+object chunkfeat
+ chunkfeat : id int  	
+ chunkfeat : name string
+ chunkfeat : value string
+
+
+object batch
+batch : chunk_id int fk
+batch : name string
+
+chunk "0..*" <|- - "1..*" batch 
+
+
+object script
+script : chunk_id int fk
+script : name string
+
+chunk "0..*" <|- - "1..*" script
+
+object source
+source : id int
+source : name string
+
+object source_chunk
+source_chunk : source_id int fk
+source_chunk : chunk_id int fk
+
+source "1..*" <|- -  "1..*" source_chunk
+source_chunk  "1..*" - -|>  "1..*" chunk
+
+
+
+object chunkfeatcat
+chunkfeatcat : name string
+chunkfeatcat : chunkfeat_id int fk
+
+chunkfeatcat "1..*" - -|> "0..*" chunkfeat
+
+
+      
+       
+
+
+object chunk_chunkfeat
+chunk_chunkfeat : chunk_id int fk
+chunk_chunkfeat : chunkfeat_id int fk
+chunk_chunkfeat : freq int 
+
+chunk_chunkfeat "1..*" - -|> "0..*" chunk
+chunk_chunkfeat "1..*" - -|> "0..*" chunkfeat
+
+
+
+object wordfreq
+wordfreq : id int  
+wordfreq : chunkfeat_id int fk
+wordfreq : freq int
+
+chunkfeat "1" <|- - "1" wordfreq
+
+@enduml
+
+PlantUML version 1.2018.13(Mon Nov 26 18:11:51 CET 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_80-b15
+Operating System: Linux
+OS Version: 5.4.0-51-generic
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

@@ -1,0 +1,89 @@
+Nedan finns en beskrivning av de filterkriterier som finns att välja på
+i nuvarande release av manusverktyget. Informationen är på engelska,
+eftersom den är genererad direkt från programdokumentationen.
+
+
+\begin{longtable}{lp{12cm}}
+  \multicolumn{2}{l}{\bf comma\_count}\\
+  \multicolumn{2}{l}{Number of commas in a sentence}\\
+  \em Args & Two integers defining a legal interval\\
+  \em Example & \tt 0, 2\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf digit\_count}\\
+  \multicolumn{2}{l}{Number of digit expressions in a sentence}\\
+  \em Args & Two integers defining a legal interval\\
+  \em Example & \tt 0, 0\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf exclude\_batches}\\
+  \multicolumn{2}{l}{Exclude sentences from certain batches}\\
+  \em Args & List of batch names\\
+  \em Example & \tt test\_batch\_1\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf exclude\_chunk\_re}\\
+  \multicolumn{2}{l}{Illegal sentence pattern}\\
+  \em Args & Regular expression\\
+  \em Example & \tt \lbrack\textbackslash p\{Greek\}\rbrack\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf lowest\_word\_freq}\\
+  \multicolumn{2}{l}{Lowest word frequency allowed in a sentence}\\
+  \em Args & One integer defining the frequency\\
+  \em Example & \tt 3\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf paragraph\_count}\\
+  \multicolumn{2}{l}{Choose sentences from texts (sources) containing a certain number of paragraphs}\\
+  \em Args & Two integers defining a legal interval\\
+  \em Example & \tt 10, 20\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf sentence\_count}\\
+  \multicolumn{2}{l}{Choose sentences from texts (sources) containing a certain number of sentences}\\
+  \em Args & Two integers defining a legal interval\\
+  \em Example & \tt 9, -1\\
+
+  & \\
+  
+  \multicolumn{2}{l}{\bf source\_re}\\
+  \multicolumn{2}{l}{Required pattern for text source}\\
+  \em Args & Regular expression\\
+  \em Example & \tt 00\$\\
+
+  & \\\newpage
+  
+  \multicolumn{2}{l}{\bf word\_count}\\
+  \multicolumn{2}{l}{Number of words in a sentence}\\
+  \em Args & Two integers defining a legal interval\\
+  \em Example & \tt 4, 25\\
+
+  & \\
+
+  \multicolumn{2}{l}{\bf chunkfeat\_cats}\\
+  \multicolumn{2}{l}{Choose sentences included in pre-defined feature categories (typically domains)}\\
+  \em Args & List of feature categories selected from:
+  \begin{itemize}[nosep]
+  \item bigram\_top800
+  \item int\_place
+  \item se\_calendar
+  \item se\_fem\_name
+  \item se\_fem\_name\_top100
+  \item se\_male\_name
+  \item se\_male\_name\_top100
+  \item se\_place
+  \item se\_sports
+  \item se\_surname
+  \item se\_weather
+  \end{itemize}\\[-12pt]
+  \em Example & \tt se\_place
+
+\end{longtable}
+

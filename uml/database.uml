@@ -1,0 +1,105 @@
+@startuml
+
+title
+Wikispeech: Manuscript database
+end title
+
+
+
+object chunk
+chunk : id
+chunk : text string
+' text string UNIQUE
+
+
+object chunkfeat
+ chunkfeat : id int  	
+ chunkfeat : name string
+ chunkfeat : value string
+'       UNIQUE(name, value)
+
+
+object batch
+batch : chunk_id int fk
+batch : name string
+'batch : UNIQUE(chunk_id, name),
+'batch : FOREIGN KEY (chunk_id) REFERENCES chunk(id) ON DELETE CASCADE
+
+chunk "0..*" <|-- "1..*" batch 
+
+
+object script
+script : chunk_id int fk
+script : name string
+'script : UNIQUE(chunk_id, name),
+'script : FOREIGN KEY (chunk_id) REFERENCES chunk(id) ON DELETE CASCADE
+
+chunk "0..*" <|-- "1..*" script
+
+object source
+source : id int
+source : name string
+
+object source_chunk
+source_chunk : source_id int fk
+source_chunk : chunk_id int fk
+'source_chunk : UNIQUE(source_id, chunk_id),
+
+source "1..*" <|--  "1..*" source_chunk
+source_chunk  "1..*" --|>  "1..*" chunk
+
+
+
+object chunkfeatcat
+chunkfeatcat : name string
+chunkfeatcat : chunkfeat_id int fk
+'chunkfeatcat : FOREIGN KEY (chunkfeat_id) REFERENCES chunkfeat(id) ON DELETE CASCADE
+
+chunkfeatcat "1..*" --|> "0..*" chunkfeat
+
+
+'object sourcefeat
+'sourcefeat : id	
+'sourcefeat : name string
+'sourcefeat : value string
+      
+'object source_sourcefeat
+'source_sourcefeat : source_id int fk
+'source_sourcefeat : sourcefeat_id int fk
+'source_sourcefeat : freq int
+'source_sourcefeat : FOREIGN KEY (source_id) REFERENCES source(id) ON DELETE CASCADE,
+'source_sourcefeat : FOREIGN KEY (sourcefeat_id) REFERENCES sourcefeat(id) ON DELETE CASCADE
+       
+'source_sourcefeat "1..*" --|> "0..*" sourcefeat
+'source_sourcefeat "1..*" --|> "0..*" source
+
+
+object chunk_chunkfeat
+chunk_chunkfeat : chunk_id int fk
+chunk_chunkfeat : chunkfeat_id int fk
+chunk_chunkfeat : freq int 
+'chunk_chunkfeat : foreign key (chunk_id) references chunk(id) ON DELETE CASCADE,
+'chunk_chunkfeat : foreign key (chunkfeat_id) references chunkfeat(id) ON DELETE CASCADE
+
+chunk_chunkfeat "1..*" --|> "0..*" chunk
+chunk_chunkfeat "1..*" --|> "0..*" chunkfeat
+
+
+
+object wordfreq
+wordfreq : id int  
+wordfreq : chunkfeat_id int fk
+wordfreq : freq int
+'wordfreq : foreign key(chunkfeat_id) REFERENCES chunkfeat(id) ON DELETE CASCADE
+
+chunkfeat "1" <|-- "1" wordfreq
+
+@enduml
+
+
+       
+
+
+
+
+
