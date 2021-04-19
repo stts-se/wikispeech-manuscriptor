@@ -1,8 +1,8 @@
 language: go
-branches:
-  only:
-  - master
-  - /^v.*$/
+#branches:
+#  only:
+#  - master
+#  - /^v.*$/
   
 os: linux
 dist: focal
