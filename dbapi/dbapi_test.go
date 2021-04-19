@@ -12,8 +12,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stts-se/manuscriptor2000/protocol"
-	"github.com/stts-se/manuscriptor2000/text"
+	"github.com/stts-se/wikispeech-manuscriptor/protocol"
+	"github.com/stts-se/wikispeech-manuscriptor/text"
 )
 
 var testDbPath = "tst_manuscript_dbapi.db"

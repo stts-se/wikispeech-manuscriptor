@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/stts-se/manuscriptor2000/text"
+	"github.com/stts-se/wikispeech-manuscriptor/text"
 )
 
 func f() { fmt.Println() }

@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/stts-se/manuscriptor2000/dbapi"
-	"github.com/stts-se/manuscriptor2000/protocol"
-	"github.com/stts-se/manuscriptor2000/text"
+	"github.com/stts-se/wikispeech-manuscriptor/dbapi"
+	"github.com/stts-se/wikispeech-manuscriptor/protocol"
+	"github.com/stts-se/wikispeech-manuscriptor/text"
 )
 
 var testDbPath = "tst_manuscript_filter.db"

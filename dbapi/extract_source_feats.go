@@ -3,7 +3,7 @@ package dbapi
 import (
 	//"strings"
 
-	"github.com/stts-se/manuscriptor2000/text"
+	"github.com/stts-se/wikispeech-manuscriptor/text"
 )
 
 type SourceExtractor interface {

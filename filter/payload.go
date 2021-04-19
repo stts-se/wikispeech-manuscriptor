@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/stts-se/manuscriptor2000/protocol"
+	"github.com/stts-se/wikispeech-manuscriptor/protocol"
 )
 
 const (

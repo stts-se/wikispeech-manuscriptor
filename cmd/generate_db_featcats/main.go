@@ -7,8 +7,8 @@ import (
 
 	"github.com/pkg/profile"
 
-	"github.com/stts-se/manuscriptor2000/dbapi"
-	"github.com/stts-se/manuscriptor2000/text"
+	"github.com/stts-se/wikispeech-manuscriptor/dbapi"
+	"github.com/stts-se/wikispeech-manuscriptor/text"
 )
 
 func main() {

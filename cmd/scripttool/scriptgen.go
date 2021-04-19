@@ -7,10 +7,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/stts-se/manuscriptor2000/dbapi"
-	"github.com/stts-se/manuscriptor2000/filter"
-	"github.com/stts-se/manuscriptor2000/protocol"
-	"github.com/stts-se/manuscriptor2000/selection"
+	"github.com/stts-se/wikispeech-manuscriptor/dbapi"
+	"github.com/stts-se/wikispeech-manuscriptor/filter"
+	"github.com/stts-se/wikispeech-manuscriptor/protocol"
+	"github.com/stts-se/wikispeech-manuscriptor/selection"
 )
 
 func createScript(config protocol.Config) {

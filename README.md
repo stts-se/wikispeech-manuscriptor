@@ -1,4 +1,4 @@
-# manuscriptor2000
+# wikispeech-manuscriptor
 
 Tools for selecting a smaller set of sentences from a larger text corpus, for creating manuscripts for TTS and ASR.
 

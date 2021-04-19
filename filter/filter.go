@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/stts-se/manuscriptor2000/dbapi"
+	"github.com/stts-se/wikispeech-manuscriptor/dbapi"
 )
 
 const debug = true

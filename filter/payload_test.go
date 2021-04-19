@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/stts-se/manuscriptor2000/protocol"
+	"github.com/stts-se/wikispeech-manuscriptor/protocol"
 )
 
 func TestPayloadOpt2FilterOpt(t *testing.T) {

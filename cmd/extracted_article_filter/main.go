@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/stts-se/manuscriptor2000/text"
+	"github.com/stts-se/wikispeech-manuscriptor/text"
 )
 
 // go run cmd/extracted_article_filter/main.go <DUMP EXTRACTION DIR>/extracted/AA/wiki_00.bz2
