@@ -111,12 +111,12 @@ Sample scripts and their config files can be found in the folder `sample_scripts
 
 ## UML Diagram
 
-<img src="./uml/manuscriptor.svg">
+<img src="./doc/manuscriptor.svg">
 
 
 ## DB schema (partial)
 
-<img src="./uml/database.svg">
+<img src="./doc/database.svg">
 
 ---
 
