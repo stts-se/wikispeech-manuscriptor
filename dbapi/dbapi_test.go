@@ -150,6 +150,11 @@ func TestInsertChunkFeats1(t *testing.T) {
 	}
 
 	sents, err := GetSentsTx(tx, chunkID)
+	if err != nil {
+		tx.Rollback()
+		t.Errorf("%v", err)
+		return
+	}
 	if len(sents) != 1 {
 		tx.Rollback()
 		t.Errorf("Expected %d sents, found %d", 1, len(sents))
@@ -200,6 +205,11 @@ func TestInsertChunkFeats2(t *testing.T) {
 	}
 
 	sents, err := GetSentsTx(tx, cID)
+	if err != nil {
+		tx.Rollback()
+		t.Errorf("%v", err)
+		return
+	}
 	if len(sents) != 1 {
 		tx.Rollback()
 		t.Errorf("Expected %d sents, found %d", 1, len(sents))
@@ -431,6 +441,10 @@ func TestAddChunkFeatCats(t *testing.T) {
 		{TargetFeatName: "place_on_earth", FeatValue: "usa"},
 	}
 	n, err := AddChunkFeatCats("word", places)
+	if err != nil {
+		t.Errorf("%v", err)
+		return
+	}
 	if n != len(sentsWithFeats) {
 		t.Errorf("Expected %d, got %d", len(sentsWithFeats), n)
 		return
@@ -476,6 +490,10 @@ func TestAddChunkFeatCats(t *testing.T) {
 	}
 
 	res, err := GetSents(ids...)
+	if err != nil {
+		t.Errorf("Failed : %v", err)
+		return
+	}
 	sort.Slice(res, func(i, j int) bool { return strings.ToLower(res[i].Text) < strings.ToLower(res[j].Text) })
 	if len(res) != len(sents) {
 		t.Errorf("Expected %d sents, found %d", len(sents), len(res))
@@ -578,6 +596,11 @@ func TestBatchMetadata(t *testing.T) {
 	}
 
 	outputMetadata, err := GetBatchProperties(batchName)
+	if err != nil {
+		t.Errorf("Failed : %v", err)
+		return
+	}
+
 	if !reflect.DeepEqual(inputMetadata, outputMetadata) {
 		t.Errorf("expected %v, got %v", inputMetadata, outputMetadata)
 		return
@@ -632,6 +655,10 @@ func TestGetSetScriptProperties(t *testing.T) {
 	}
 
 	outputMetadata, err := GetScriptProperties(scriptName)
+	if err != nil {
+		t.Errorf("Failed : %v", err)
+		return
+	}
 	if !reflect.DeepEqual(inputMetadata, outputMetadata) {
 		t.Errorf("expected\n%#v, got\n%#v", inputMetadata, outputMetadata)
 		return
@@ -740,12 +767,20 @@ func TestGetScriptWithMetadata(t *testing.T) {
 	}
 
 	outputMetadata, err := GetScriptProperties(scriptName)
+	if err != nil {
+		t.Errorf("Failed : %v", err)
+		return
+	}
 	if !reflect.DeepEqual(inputMetadata, outputMetadata) {
 		t.Errorf("expected %v, got %v", inputMetadata, outputMetadata)
 		return
 	}
 
 	script, err := GetScript(scriptName, 0, 0)
+	if err != nil {
+		t.Errorf("Failed : %v", err)
+		return
+	}
 
 	if len(script) != len(addToScript) {
 		t.Errorf("Expected %d, got %d", len(addToScript), len(script))

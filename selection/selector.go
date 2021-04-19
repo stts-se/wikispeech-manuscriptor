@@ -223,7 +223,7 @@ func (selector *Selector) Init() error {
 	batch, err := selector.getInputBatch()
 	selector.Corpus = batch
 	if err != nil {
-		return fmt.Errorf("couldn't get retreive input batch data : %v", err)
+		return fmt.Errorf("couldn't get retrieve input batch data : %v", err)
 	}
 	err = selector.loadAccumulatedScripts()
 	if err != nil {

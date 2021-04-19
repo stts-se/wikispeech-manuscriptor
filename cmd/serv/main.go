@@ -391,7 +391,7 @@ func keepAlive() {
 	}
 
 	t := time.NewTicker(23 * time.Second)
-	for _ = range t.C {
+	for range t.C {
 
 		clientMutex.RLock()
 		for id, ws := range clients {

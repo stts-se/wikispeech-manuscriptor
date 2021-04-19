@@ -138,19 +138,18 @@ func main() {
 	chunkFeatCatFolder := flag.Args()[1]
 
 	fi, err := os.Stat(chunkFeatCatFolder)
+	if _, err := os.Stat(dbFile); os.IsNotExist(err) {
+		log.Fatalf("No such file %s\n", dbFile)
+	}
 	mode := fi.Mode()
 	if !mode.IsDir() {
 		log.Fatalf("Expected folder, found file: %s", chunkFeatCatFolder)
 	}
 
-	if _, err := os.Stat(dbFile); os.IsNotExist(err) {
-		log.Fatalf("no such file %s\n", dbFile)
-	}
-
 	err = dbapi.Open(dbFile, "PRAGMA synchronous = OFF", "PRAGMA journal_mode = MEMORY", "PRAGMA foreign_keys=OFF", "PRAGMA cache_size=10000")
 	if err != nil {
 
-		log.Fatalf("failed to open db file '%s' : %v", dbFile, err)
+		log.Fatalf("Failed to open db file '%s' : %v", dbFile, err)
 	}
 
 	aN := 0

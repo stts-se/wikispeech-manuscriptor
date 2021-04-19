@@ -13,7 +13,7 @@ type Chunk struct {
 var chunkFreqQuery = `SELECT chunk.id, chunk.text, COUNT(source.id) sfreq FROM source, chunk, source_chunk WHERE chunk.id = source_chunk.chunk_id AND source.id = source_chunk.source_id GROUP BY chunk.id ORDER BY sfreq DESC LIMIT ?`
 
 // SelectMostFrequentChunks lists the chunks in the DB sorted
-// according to in how many sources (articles) they occurr in. It is
+// according to in how many sources (articles) they occur in. It is
 // useful mostly for diagnostic purposes.
 func SelectMostFrequentChunks(limit int) ([]Chunk, error) {
 	var res []Chunk

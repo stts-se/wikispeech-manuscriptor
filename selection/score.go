@@ -288,7 +288,7 @@ func (selector *Selector) getScore(acc Stats, adjustScoreForSentenceLength bool,
 		}
 		for k := range mCand {
 			if targetAmount > 0 {
-				if mAcc[k] < targetAmount { // score = 1.0 if the previously accumulated frequency is under a certian frequency
+				if mAcc[k] < targetAmount { // score = 1.0 if the previously accumulated frequency is under a certain frequency
 					diff += 1.0
 					continue
 				} else {
