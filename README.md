@@ -54,7 +54,7 @@ the database.
 
 Usage:
 
-      scripttool <db file> <command> <args>
+      go run cmd/scripttool/*.go <db file> <command> <args>
 
 ## Examples:
 
