@@ -1,0 +1,8 @@
+*~
+dbapi/tst_manuscript.db
+dbapi/tst_manuscript_dbapi.db
+filter/tst_manuscript_filter.db
+
+wp_dump_extract/extracted/
+wp_dump_extract/svwiki-latest-pages-articles-multistream.xml.bz2
+dbs
