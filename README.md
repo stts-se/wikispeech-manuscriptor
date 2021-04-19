@@ -7,7 +7,8 @@ I. Requirements
 II. Set up DB    
 III. Scripttool    
 IV. Config files    
-V. Documentation    
+V. Sample scripts    
+VI. Documentation    
 
 # I. Requirements
 * python3
@@ -19,7 +20,6 @@ V. Documentation
 ## 1. Download Wikipedia dump file
 
 For Swedish: https://dumps.wikimedia.org/svwiki/latest/svwiki-latest-pages-articles-multistream.xml.bz2    
-<!-- English: https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles-multistream.xml.bz2 -->
 
 
 ## 2. Extract text 
@@ -66,9 +66,9 @@ For full usage and documentation, please invoke
 
      go run cmd/scripttool/*.go <db file> scriptgen <config file>
 
-Some config examples can be found in folder `config_examples`. TODO verify final folder name.
+Some config examples can be found in folder `config_examples`.
 
-Sample scripts and their config files can be found in the folder `sample_scripts`. TODO verify final folder name.
+Sample scripts and their config files can be found in the folder `sample_scripts`.
 
 ### List available filter features
 
@@ -91,7 +91,12 @@ Sample scripts and their config files can be found in the folder `sample_scripts
 Sample config files for creating batches/scripts can be found in the `config_examples` folder.
 
 
-# V. Documentation
+# V. Sample scripts
+
+Sample scripts and their config files can be found in the folder `sample_scripts`.
+
+
+# VI. Documentation
 
 
 ## Description of the selection process (in Swedish)
