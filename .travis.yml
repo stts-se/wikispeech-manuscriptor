@@ -1,0 +1,15 @@
+language: go
+
+os: linux
+# dist: bionic
+
+go:
+  - 1.16.x
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+
+script:
+ - go test -v ./... 
