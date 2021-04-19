@@ -1,5 +1,9 @@
 language: go
-
+branches:
+  only:
+  - main
+  - /^v.*$/
+  
 os: linux
 dist: focal
 
