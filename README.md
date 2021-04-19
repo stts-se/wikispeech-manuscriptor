@@ -38,7 +38,7 @@ The above step takes a lot of time.
 
       go run cmd/load_db/main.go <options> <db file> <featcatdir> <WikiExtractor.py output files>
 
-where `featcatdir` is the directory in which feature category/domain files reside. This repository contains a set of domain files, located in the `feat_data` folder: Swedish words for sports, weather, common names, etc. More information can be found in the documentation `doc/manuscript_tool.tex` (Swedish only).
+where `featcatdir` is the directory in which feature category/domain files reside. This repository contains a set of domain files, located in the `feat_data` folder: Swedish words for sports, weather, common names, etc. More information can be found in the documentation <a href="doc/manuscript_tool.pdf">manuscript_tool.pdf</a> (Swedish only).
 
 
 The above steps takes a lot of time and will eventually create a huge
