@@ -4,7 +4,7 @@
 
 Usage:
 
-      go run cmd/scripttool/*.go <Sqlite3 manuscript db> <command> <args>
+      go run cmd/scripttool/*.go <db file> <command> <args>
 
  For full usage and documentation, please invoke
 
