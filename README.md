@@ -84,7 +84,7 @@ Sample scripts and their config files can be found in the folder `sample_scripts
 
 # IV. Config files
 
-Sample config files for creating batches/scripts can be found in the `config` folder.
+Sample config files for creating batches/scripts can be found in the `config_examples` folder.
 
 
 # V. Documentation
