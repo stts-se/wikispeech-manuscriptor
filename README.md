@@ -71,9 +71,7 @@ For full usage and documentation, please invoke
 
      go run cmd/scripttool/*.go <db file> scriptgen <config file>
 
-Some config examples can be found in folder `config_examples`.
-
-Config files used to generate scripts included in releases for this repo: `sample_scripts`.
+More information about config files can be found in sections _Config files_ and _Sample scripts_ below.
 
 ### List available filter features
 
@@ -98,8 +96,9 @@ Some config examples can be found in folder `config_examples`.
 
 # V. Sample scripts
 
-Config files used to generate scripts included in releases for this repo: `sample_scripts`.
+Config files used to generate sample scripts: `sample_scripts`.
 
+Sample scripts can be found in the [latest release](https://github.com/stts-se/wikispeech-manuscriptor/releases/latest).
 
 # VI. Documentation
 
