@@ -73,7 +73,7 @@ For full usage and documentation, please invoke
 
 Some config examples can be found in folder `config_examples`.
 
-Sample scripts and their config files can be found in the folder `sample_scripts`.
+Config files used to generate scripts included in releases for this repo: `sample_scripts`.
 
 ### List available filter features
 
@@ -93,12 +93,12 @@ Sample scripts and their config files can be found in the folder `sample_scripts
 
 # IV. Config files
 
-Sample config files for creating batches/scripts can be found in the `config_examples` folder.
+Some config examples can be found in folder `config_examples`.
 
 
 # V. Sample scripts
 
-Sample scripts and their config files can be found in the folder `sample_scripts`.
+Config files used to generate scripts included in releases for this repo: `sample_scripts`.
 
 
 # VI. Documentation
