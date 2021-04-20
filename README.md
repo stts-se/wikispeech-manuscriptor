@@ -96,7 +96,7 @@ Some config examples can be found in folder `config_examples`.
 
 # V. Sample scripts
 
-Config files used to generate sample scripts: `sample_scripts`.
+Config files used to generate sample scripts can be found in the folder `sample_scripts`.
 
 Sample scripts can be found in the [latest release](https://github.com/stts-se/wikispeech-manuscriptor/releases/latest).
 
