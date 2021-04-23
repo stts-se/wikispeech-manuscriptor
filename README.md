@@ -73,6 +73,12 @@ For full usage and documentation, please invoke
 
 More information about config files can be found in sections _Config files_ and _Sample scripts_ below.
 
+
+### Export generated script from db
+
+     go run cmd/scripttool/*.go <db file> export_script <script name(s)>
+
+
 ### List available filter features
 
      go run cmd/scripttool/*.go <db file> list_filter_feats
